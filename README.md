@@ -49,9 +49,9 @@ https://mikeprivette.gumroad.com/l/avoiding-lateral-movement/2024-cyber-friday-2
 Deal ends: 1st December
 
 **CyberSec Careers** - The CyberSec People Career [Community](https://cybersec.careers/) \
-https://www.cyberseccareers.community/checkout/personal-branding  
+https://www.cyberseccareers.community/checkout/unlock-your-career-potential-personal-branding-for-cybersecurity-leaders  
 30% off the Career Potential Program with code: `BFPB1` \
-https://www.cyberseccareers.community/checkout/optimus  
+https://www.cyberseccareers.community/checkout/job-transition-program-cyberseccareers-optimus-package  
 30% off the Job Transition Program with code: `BFCOACHING` \
 Deal ends: 1st December
 
@@ -59,6 +59,18 @@ Deal ends: 1st December
 ## Newsletters
 
 ## Professional Services
+**SecurityBoat** - Offensive Security Solutions
+
+https://securityboat.net/
+
+SecurityBoat offers a range of offensive security solutions, including but not limited to manual penetration testing, source code reviews, and red teaming activities.
+
+**Black Friday Special:** Get 50% off on all our penetration testing services, including application, network, IT infrastructure, and cloud pentests.
+
+To claim the offer, email us your requirements with the subject line **BLACKFRIDAY2024** at sales@securityboat.net
+
+Deal Ends: December 20, 2024
+
 
 ## Tools
 **PortDroid** - A swiss army knife of network security tools for Android \
