@@ -1,7 +1,7 @@
 # InfoSec Black Friday Deals ~ "Cyber Turducken" 2024 Edition
 All the deals for InfoSec related software/tools this coming Black Friday. 
 
-Prepare thy corporate amex card. Prepare ye' team budget request forms. It's time to load up on InfoSec tools and get the deals that only pop up once a year. We've experienced the Crowdstrike outage and ChatGPT since 2023, I think we all deserve a little break. 
+Prepare thy corporate amex card. Prepare ye' team budget request forms. It's time to load up on InfoSec tools and get the deals that only pop up once a year. We've experienced the Crowdstrike outage and ChatGPT since 2023, I think we all deserve a little break.  
 
 ### Just 2024 things
 Quality over quantity - this list goes through a level of vetting for dodginess, gated-deals, deals that aren't infosec related and either can't be verified or break promises. There are also some vendors being stood up (literally) with courses and training 'just' for black friday; at your service here to weed out the genuine from the fake.
